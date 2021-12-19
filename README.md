@@ -10,7 +10,7 @@
     ![After convertering Nan's](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/district_summary_post.PNG)
     
 * How is the school summary affected?
-   * There's also a slight drop in averages and passing percentages in the school summary but as you can see below, the difference is minimal. See below a before and after view:
+   * There's also a slight drop in averages and passing percentages in the school summary but as you can see below, the difference is minimal. The average reading score is actually a bit higher after converting 9th grades scores to NaN. See below a before and after view:
     ![Before converting Nan's THS](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/ths_pre.PNG)
     ![After converting Nan's THS](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/ths_post.PNG)
       # Read the csv and convert it into a list of dictionaries
