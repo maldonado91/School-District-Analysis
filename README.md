@@ -13,6 +13,10 @@
    * There's also a slight drop in averages and passing percentages in the school summary but as you can see below, the difference is minimal. The average reading score is actually a bit higher after converting 9th grades scores to NaN. See below a before and after view:
     ![Before converting Nan's THS](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/ths_pre.PNG)
     ![After converting Nan's THS](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/ths_post.PNG)
+
+* How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+   * Because of only a slight drop in average scores and percenatges, Thiomas High School has a very similar rank amonst the other schools under type Charter. See below comparison:
+
       # Read the csv and convert it into a list of dictionaries
       with open(file_to_load) as election_data:
           reader = csv.reader(election_data)
