@@ -5,7 +5,7 @@
 
 ### 2. School District Analysis Results:
 * How is the district summary affected?
-    * There is slight drop in passing percentages across the board which is most notable in % Overall Passing. See below aa before and after summary.
+    * There is slight drop in passing percentages across the board which is most notable in % Overall Passing. See below a before and after view.
     ![Before converting Nan's](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/district_summary_pre.PNG)
     ![After convertering Nan's](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/district_summary_post.PNG)
     
