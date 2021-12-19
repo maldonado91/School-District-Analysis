@@ -1,7 +1,7 @@
 # School-District-Analysis
 
 ### 1. Overview of School District Analysis:
-#### We previously summarized school and students data but later discovered we might have a case of academic dishonestly. We are going to replace some of the data with NaN values. In this particular case we are focused on 9th grade data from Thomas High School.
+#### We previously summarized school and students data but later discovered we might have a case of academic dishonestly. We are going to replace some of the data with NaN values and re run the analysis. In this particular case we are focused on 9th grade data from Thomas High School and that information will be removed.
 
 ### 2. School District Analysis Results:
 * How is the district summary affected?
