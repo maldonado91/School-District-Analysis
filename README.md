@@ -9,7 +9,8 @@
     ![Before converting Nan's](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/district_summary_pre.PNG)
     ![After convertering Nan's](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/district_summary_post.PNG)
     
-    * We found results by looping through the data and tallying 1 to the total_votes variable. See sample code below:
+* How is the school summary affected?
+   *
     ```
       # Read the csv and convert it into a list of dictionaries
       with open(file_to_load) as election_data:
