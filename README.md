@@ -6,8 +6,8 @@
 ### 2. School District Analysis Results:
 * How is the district summary affected?
     * There is slight drop in passing percentages across the board which is most notable in % Overall Passing.
-    ![Before converting Nan's](https://github.com/maldonado91/Election-Analysis/blob/main/Resources/ElectionSummary.PNG)
-    ![After convertering Nan's](https://github.com/maldonado91/Election-Analysis/blob/main/Resources/ElectionSummary.PNG)
+    ![Before converting Nan's](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/district_summary_pre.PNG)
+    ![After convertering Nan's](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/district_summary_post.PNG)
     
     * We found results by looping through the data and tallying 1 to the total_votes variable. See sample code below:
     ```
