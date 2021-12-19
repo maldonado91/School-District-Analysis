@@ -16,6 +16,7 @@
 
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
    * Because of only a slight drop in average scores and percenatges, Thiomas High School has a very similar rank amonst the other schools under type Charter as before. See below comparison:
+    ![School types](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/school_type_summary.PNG)
 
       # Read the csv and convert it into a list of dictionaries
       with open(file_to_load) as election_data:
