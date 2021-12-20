@@ -18,6 +18,18 @@
    * Because of only a slight drop in average scores and percenatges, Thiomas High School has a very similar rank amonst the other schools under type Charter just like before. See below averages and percentages by school type:
     ![School types](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/school_type_summary.PNG)
 
+* How does replacing the ninth-grade scores affect the following:
+   * Math and reading scores by grade
+      * Because the data remained the same for all grades except for the 9th graders at Thomas High School, the math and reading scores are the same.  
+   * Scores by school spending
+      *  
+   * Scores by school size
+   * Scores by school type
+ 
+ 
+ 
+ 
+ 
       # Read the csv and convert it into a list of dictionaries
       with open(file_to_load) as election_data:
           reader = csv.reader(election_data)
