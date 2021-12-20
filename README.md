@@ -22,7 +22,9 @@
    * Math and reading scores by grade
       * Because the data remained the same for all grades except for the 9th graders at Thomas High School, the math and reading scores are the same.  
    * Scores by school spending
-      *  
+      *  Thmonas High School belongs to the $630-644 Spending Range (Per Student) so we only see a difference under this category. See below a before and after view:
+      ![scores_spend_pre](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/scores_byspend_pre.PNG)
+      ![scores_spend_post](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/scores_byspend_post.PNG)
    * Scores by school size
    * Scores by school type
  
