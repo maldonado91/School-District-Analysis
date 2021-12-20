@@ -34,4 +34,9 @@
       ![scores_spend_pre](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/scores_bytype_pre.PNG)
       ![scores_spend_pre](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/scores_bytype_post.PNG)
       
- 
+ ### 3 Summary:
+#### Changing the 9th grade Thomas High School data to NaN showed very little changes in our results but we still see some slight differences.
+   1. The Math scores are slightly lower
+   2. The Reading scores are slightly higher
+   3. Any grouping involving Thomas High School 9th graders resulted in lower scores (with the exception of Reading scores)
+   4. The impact on groups not associated with Thomas High School 9th graders was none
