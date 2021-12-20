@@ -22,11 +22,13 @@
    * Math and reading scores by grade
       * Because the data remained the same for all grades except for the 9th graders at Thomas High School, the math and reading scores are the same.  
    * Scores by school spending
-      *  Thomnas High School belongs to the $630-644 Spending Range (Per Student) so we only see a difference under this category. I left figures to the 6th decimal to display the differences as they are very very close. Only Average Reading Score is higher after removing 9th grade scores. See below a before and after view:
+      * Thomnas High School belongs to the $630-644 Spending Range (Per Student) so we only see a difference under this category. I left figures to the 6th decimal to display the differences as they are very very close. Only Average Reading Score is higher after removing 9th grade scores. See below a before and after view:
       ![scores_spend_pre](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/scores_byspend_pre.PNG)
       ![scores_spend_post](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/scores_byspend_post.PNG)   
    * Scores by school size
-      * 
+      * Similar to the school spending breakdown, Thomnas High School belongs to the Medium (1000-2000) School Size so we only see a difference under this category. I left figures to the 2nd decimal to display the differences as they are very very close. Only Average Reading Score is higher after removing 9th grade scores. See below a before and after view:
+      ![scores_spend_pre](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/scores_byschoolsize_pre.PNG)
+      ![scores_spend_pre](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/scores_byschoolsize_post.PNG)
    * Scores by school type
  
  
