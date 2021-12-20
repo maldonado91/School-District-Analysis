@@ -1,7 +1,7 @@
 # School-District-Analysis
 
 ### 1. Overview of School District Analysis:
-#### We previously summarized school and students data but later discovered we might have a case of academic dishonestly. We are going to replace some of the data with NaN values and re run the analysis. In this particular case we are focused on 9th grade data from Thomas High School and that information will be removed.
+#### We previously summarized school and students data but later discovered we might have a case of academic dishonestly. We are going to replace some of the data with NaN values and re run the analysis. In this particular case we are focused on 9th grade data from Thomas High School and that information will be replaced with NaN.
 
 ### 2. School District Analysis Results:
 * How is the district summary affected?
@@ -15,7 +15,7 @@
     ![After converting Nan's THS](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/ths_post.PNG)
 
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-   * Because of only a slight drop in average scores and percenatges, Thiomas High School has a very similar rank amonst the other schools under type Charter just like before. See below averages and percentages by school type:
+   * Because of only a slight drop in average scores and percentages, Thomas High School has a very similar rank amonst the other schools under type Charter just like before. See below averages and percentages by school type:
     ![School types](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/school_type_summary.PNG)
 
 * How does replacing the ninth-grade scores affect the following:
